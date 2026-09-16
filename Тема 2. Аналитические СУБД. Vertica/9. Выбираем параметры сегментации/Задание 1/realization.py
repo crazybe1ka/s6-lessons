@@ -1,0 +1,1 @@
+vertica_user = 'VT260905539720'
